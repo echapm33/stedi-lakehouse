@@ -20,4 +20,10 @@ We have raw JSON landing in S3, then its filtered into trusted tables and is the
 - [Spark SQL: SQL syntax reference] (https://spark.apache.org/docs/4.0.0/sql-ref-syntax.html)
 
 # AWS:
-
+- [S3 Organizing Objects with Folders] (https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-folders.html)
+- [Athena help understanding the tables, databases, and data catalogs] (https://docs.aws.amazon.com/en_us/athena/latest/ug/understanding-tables-databases-and-the-data-catalog.html)
+- [Glue Creating the database] (https://docs.aws.amazon.com/glue/latest/dg/define-database.html)
+- [Glue Data Catalog Walkthrough] (https://docs.aws.amazon.com/glue/latest/dg/start-data-catalog.html)
+- [Glue Studio using SQL Query to Transform Data] (https://docs.aws.amazon.com/glue/latest/dg/transforms-sql.html)
+- [Glue Setting up IAM Permissions] (https://docs.aws.amazon.com/glue/latest/dg/set-up-iam.html)
+- [Glue Configuring IAM permissions for Glue] (https://docs.aws.amazon.com/glue/latest/dg/configure-iam-for-glue.html)
